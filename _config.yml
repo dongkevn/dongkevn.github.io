@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Note"
+title                    : "Kai Repo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kai"
@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/Title.jpg"
   bio              : "일어나...공부하고 돈벌어와야지..."
   location         : "South Korea"
-  email            :
+  email            : "dongkevn.choi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
